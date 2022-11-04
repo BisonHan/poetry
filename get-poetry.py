@@ -14,7 +14,7 @@ which will act as the poetry command but is slightly different in the sense
 that it will use the current Python installation.
 
 What this means is that one Poetry installation can serve for multiple
-Python versions.
+Python versions
 """
 import argparse
 import hashlib
